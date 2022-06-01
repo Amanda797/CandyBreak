@@ -636,7 +636,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 574159971}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.05, y: -4.32, z: 0}
+  m_LocalPosition: {x: 0.05, y: -4.98, z: 0}
   m_LocalScale: {x: 1.414271, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -811,6 +811,7 @@ GameObject:
   - component: {fileID: 1053426619}
   - component: {fileID: 1053426621}
   - component: {fileID: 1053426622}
+  - component: {fileID: 1053426623}
   m_Layer: 0
   m_Name: bubble gum ball
   m_TagString: Untagged
@@ -877,7 +878,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1053426618}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.06, y: -1.7847, z: 0}
+  m_LocalPosition: {x: 0.06, y: -3.74, z: 0}
   m_LocalScale: {x: 0.07847369, y: 0.081068836, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -920,6 +921,19 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 4.82
+--- !u!114 &1053426623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1053426618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c7ff0d3cf576444aa37988ef6165bf2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  paddle1: {fileID: 574159975}
 --- !u!1001 &1166238877
 PrefabInstance:
   m_ObjectHideFlags: 0
