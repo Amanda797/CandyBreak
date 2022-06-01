@@ -696,6 +696,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 50c4f5461aca74542a062fb046264cd1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  minX: -10
+  maxX: 10
+  screenWidthInUnits: 16
 --- !u!1 &698170679 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7063397055630906479, guid: 591f638b589adb34fb9b622d2b25b3a9, type: 3}
