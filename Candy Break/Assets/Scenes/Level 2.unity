@@ -1511,7 +1511,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1524,7 +1524,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1537,7 +1537,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1550,7 +1550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447982
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1563,7 +1563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1576,7 +1576,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1589,7 +1589,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &1355447985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1602,7 +1602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!1001 &1501414962
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2561,7 +2561,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2574,7 +2574,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2587,7 +2587,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2600,7 +2600,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2613,7 +2613,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2626,7 +2626,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2639,7 +2639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!114 &4246798388397867461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2652,7 +2652,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e306310a2e0df140a36a6d8409b2bf4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  breakSound: {fileID: 0}
+  breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
 --- !u!1001 &8580001240316970459
 PrefabInstance:
   m_ObjectHideFlags: 0
