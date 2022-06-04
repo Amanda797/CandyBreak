@@ -135,7 +135,7 @@ GameObject:
   - component: {fileID: 137641726}
   - component: {fileID: 137641725}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: Score Text
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -568,8 +568,8 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 137641724}
-  m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_Father: {fileID: 7595472609108684990}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -1357,6 +1357,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+--- !u!4 &7595472609108684990 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1615950296377048569, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+  m_PrefabInstance: {fileID: 7595472609108684989}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7753568604899161636
 PrefabInstance:
   m_ObjectHideFlags: 0
