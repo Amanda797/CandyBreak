@@ -134,10 +134,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: orange block
       objectReference: {fileID: 0}
+    - target: {fileID: 3577325036766811754, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     - target: {fileID: 7059211144713973893, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 7059211144713973893, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     - target: {fileID: 7868995006014197439, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -715,9 +723,17 @@ PrefabInstance:
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 2610793319465441801, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     - target: {fileID: 5540010263529481569, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
       propertyPath: m_Name
       value: green block
+      objectReference: {fileID: 0}
+    - target: {fileID: 5540010263529481569, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
@@ -989,9 +1005,17 @@ PrefabInstance:
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 2424791071227897209, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     - target: {fileID: 2896159628279135479, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
       propertyPath: m_Name
       value: red block
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896159628279135479, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 7645507723420837062, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
       propertyPath: m_RootOrder
@@ -1055,6 +1079,10 @@ PrefabInstance:
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 1525679140200395607, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     - target: {fileID: 7299503318619252815, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1102,6 +1130,10 @@ PrefabInstance:
     - target: {fileID: 8211840304903782905, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
       propertyPath: m_Name
       value: yellow block
+      objectReference: {fileID: 0}
+    - target: {fileID: 8211840304903782905, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
@@ -1295,6 +1327,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chocolate bar (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 518940084816317564, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 939090428613695460, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2172728568560083694, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     - target: {fileID: 2496145320496757685, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -1338,6 +1382,26 @@ PrefabInstance:
     - target: {fileID: 2496145320496757685, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757997216773520066, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477980665396599782, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8009413575823015789, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8470649247113303545, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676023695670124043, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
@@ -1602,6 +1666,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1615,6 +1680,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1628,6 +1694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1641,6 +1708,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447982
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1654,6 +1722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1667,6 +1736,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1680,6 +1750,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &1355447985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1693,6 +1764,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!1001 &1501414962
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1703,6 +1775,10 @@ PrefabInstance:
     - target: {fileID: 771947427615678769, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
       propertyPath: m_Name
       value: blue block
+      objectReference: {fileID: 0}
+    - target: {fileID: 771947427615678769, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 4318240331109799268, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
       propertyPath: m_RootOrder
@@ -1752,6 +1828,10 @@ PrefabInstance:
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 7543731869384481168, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
 --- !u!4 &1501414963 stripped
@@ -1832,9 +1912,17 @@ PrefabInstance:
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 818495850135628119, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     - target: {fileID: 5128854698432955681, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
       propertyPath: m_Name
       value: purple block
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128854698432955681, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 8902162277733128351, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
       propertyPath: m_RootOrder
@@ -1942,9 +2030,17 @@ PrefabInstance:
       propertyPath: breakSound
       value: 
       objectReference: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+    - target: {fileID: 2756119406464581678, guid: d4f649941f47cd54cafbd53729268e1d, type: 3}
+      propertyPath: blockSparklesVFX
+      value: 
+      objectReference: {fileID: 3736577937888857448, guid: 138367514528a5d4cbff82364c6b42bd, type: 3}
     - target: {fileID: 3297173906355075703, guid: d4f649941f47cd54cafbd53729268e1d, type: 3}
       propertyPath: m_Name
       value: pink block
+      objectReference: {fileID: 0}
+    - target: {fileID: 3297173906355075703, guid: d4f649941f47cd54cafbd53729268e1d, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4f649941f47cd54cafbd53729268e1d, type: 3}
@@ -2004,7 +2100,7 @@ GameObject:
   - component: {fileID: 2050670777}
   m_Layer: 0
   m_Name: peppermint (1)
-  m_TagString: Untagged
+  m_TagString: Unbreakable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2087,6 +2183,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 0}
+  blockSparklesVFX: {fileID: 0}
 --- !u!60 &2050670778
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2345,6 +2442,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Chocolate bar
       objectReference: {fileID: 0}
+    - target: {fileID: 518940084816317564, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 939090428613695460, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 2172728568560083694, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     - target: {fileID: 2496145320496757685, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -2388,6 +2497,26 @@ PrefabInstance:
     - target: {fileID: 2496145320496757685, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2757997216773520066, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 3477980665396599782, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8009413575823015789, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8470649247113303545, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676023695670124043, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fa1a26efe196134d9a769c4a624ae86, type: 3}
@@ -2652,6 +2781,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2665,6 +2795,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867456
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2678,6 +2809,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2691,6 +2823,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867458
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2704,6 +2837,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867459
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2717,6 +2851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867460
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2730,6 +2865,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!114 &4246798388397867461
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2743,6 +2879,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 8300000, guid: 74b65a8c5273e4241afbbc9931cd0158, type: 3}
+  blockSparklesVFX: {fileID: 0}
 --- !u!1001 &8580001240316970459
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2753,6 +2890,10 @@ PrefabInstance:
     - target: {fileID: 8580001240627465017, guid: d302e2b1dbba47347b7102d884d32e5a, type: 3}
       propertyPath: m_Name
       value: peppermint
+      objectReference: {fileID: 0}
+    - target: {fileID: 8580001240627465017, guid: d302e2b1dbba47347b7102d884d32e5a, type: 3}
+      propertyPath: m_TagString
+      value: Unbreakable
       objectReference: {fileID: 0}
     - target: {fileID: 8580001240627465023, guid: d302e2b1dbba47347b7102d884d32e5a, type: 3}
       propertyPath: m_RootOrder
@@ -2818,6 +2959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakSound: {fileID: 0}
+  blockSparklesVFX: {fileID: 0}
 --- !u!60 &8580001240316970462
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -217,6 +217,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: blue block
       objectReference: {fileID: 0}
+    - target: {fileID: 771947427615678769, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     - target: {fileID: 4318240331109799268, guid: a0729eb39895f7e48993b7e0fc448c4d, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -339,6 +343,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: yellow block
       objectReference: {fileID: 0}
+    - target: {fileID: 8211840304903782905, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 88297d609b975eb4fbbd4b27b65e9730, type: 3}
 --- !u!4 &490767247 stripped
@@ -375,6 +383,10 @@ PrefabInstance:
     - target: {fileID: 5128854698432955681, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
       propertyPath: m_Name
       value: purple block
+      objectReference: {fileID: 0}
+    - target: {fileID: 5128854698432955681, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 8902162277733128351, guid: f1ea66aecb1e9ce47aacb8ec48ae361b, type: 3}
       propertyPath: m_RootOrder
@@ -482,6 +494,10 @@ PrefabInstance:
     - target: {fileID: 2896159628279135479, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
       propertyPath: m_Name
       value: red block
+      objectReference: {fileID: 0}
+    - target: {fileID: 2896159628279135479, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 7645507723420837062, guid: 888e75d4e2aa5874a85744910a46565c, type: 3}
       propertyPath: m_RootOrder
@@ -597,6 +613,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: pink block
       objectReference: {fileID: 0}
+    - target: {fileID: 3297173906355075703, guid: d4f649941f47cd54cafbd53729268e1d, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d4f649941f47cd54cafbd53729268e1d, type: 3}
 --- !u!4 &1659521327 stripped
@@ -666,6 +686,10 @@ PrefabInstance:
     - target: {fileID: 5540010263529481569, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
       propertyPath: m_Name
       value: green block
+      objectReference: {fileID: 0}
+    - target: {fileID: 5540010263529481569, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ab7523de4ef11794b8ad739873ae22fc, type: 3}
@@ -1050,6 +1074,10 @@ PrefabInstance:
     - target: {fileID: 3577325036766811754, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
       propertyPath: m_Name
       value: orange block
+      objectReference: {fileID: 0}
+    - target: {fileID: 3577325036766811754, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
+      propertyPath: m_TagString
+      value: Breakable
       objectReference: {fileID: 0}
     - target: {fileID: 7059211144713973893, guid: 2bb74982222c7694abad8a0d2f8fb4c6, type: 3}
       propertyPath: breakSound
