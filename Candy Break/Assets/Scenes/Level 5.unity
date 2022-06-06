@@ -1410,6 +1410,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1567068400}
     m_Modifications:
+    - target: {fileID: 3750510430299705386, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
+      propertyPath: m_Size.y
+      value: 10.26079
+      objectReference: {fileID: 0}
+    - target: {fileID: 3750510430299705386, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.2775123
+      objectReference: {fileID: 0}
     - target: {fileID: 3750510430299705388, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
       propertyPath: m_Name
       value: Left Wall
@@ -1611,15 +1619,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3750510430299705386, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
       propertyPath: m_Size.y
-      value: 18.477184
+      value: 17.75484
       objectReference: {fileID: 0}
     - target: {fileID: 3750510430299705386, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
       propertyPath: m_Offset.y
-      value: 0.10196829
+      value: 0.050371647
       objectReference: {fileID: 0}
     - target: {fileID: 3750510430299705388, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
       propertyPath: m_Name
-      value: Right Wall (1)
+      value: Top
       objectReference: {fileID: 0}
     - target: {fileID: 3750510430299705389, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
       propertyPath: m_RootOrder
@@ -2309,6 +2317,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1567068400}
     m_Modifications:
+    - target: {fileID: 3750510430299705386, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
+      propertyPath: m_Size.y
+      value: 10.157596
+      objectReference: {fileID: 0}
+    - target: {fileID: 3750510430299705386, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.122721195
+      objectReference: {fileID: 0}
     - target: {fileID: 3750510430299705388, guid: 28c8b4fd72f1a86439e8443785bfe737, type: 3}
       propertyPath: m_Name
       value: Right Wall
