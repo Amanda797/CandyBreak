@@ -57,6 +57,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Won level 8.unity
     guid: cc690cdc260d1b44aaf23a5066e4b829
   - enabled: 1
+    path: Assets/Scenes/Level 9.unity
+    guid: 09f6f1bc96f0cb749b3ca27946d6114e
+  - enabled: 1
     path: Assets/Scenes/Game Over.unity
     guid: 3527a3d00a491f74882356184dad464d
   m_configObjects: {}
