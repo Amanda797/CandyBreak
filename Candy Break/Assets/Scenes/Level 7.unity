@@ -253,6 +253,30 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Status
       objectReference: {fileID: 0}
+    - target: {fileID: 7851727711126798146, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+      propertyPath: m_fontColor.b
+      value: 0.11662513
+      objectReference: {fileID: 0}
+    - target: {fileID: 7851727711126798146, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+      propertyPath: m_fontColor.g
+      value: 0.12955974
+      objectReference: {fileID: 0}
+    - target: {fileID: 7851727711126798146, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+      propertyPath: m_fontColor.r
+      value: 0.1981132
+      objectReference: {fileID: 0}
+    - target: {fileID: 7851727711126798146, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4280164659
+      objectReference: {fileID: 0}
+    - target: {fileID: 7851727711126798147, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 889
+      objectReference: {fileID: 0}
+    - target: {fileID: 7851727711126798147, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 324
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e76d7ced26ff21b4783e92cfab61a470, type: 3}
 --- !u!4 &171242444 stripped
