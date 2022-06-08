@@ -23,6 +23,11 @@ public class SceneLoader : MonoBehaviour
         SceneManager.LoadScene("Options");
     }
 
+    public void LoadCredtis()
+    {
+        SceneManager.LoadScene("Credits");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
