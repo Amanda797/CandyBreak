@@ -18,6 +18,11 @@ public class SceneLoader : MonoBehaviour
 
     }
 
+    public void LoadOptionsMenu()
+    {
+        SceneManager.LoadScene("Options");
+    }
+
     public void QuitGame()
     {
         Application.Quit();
