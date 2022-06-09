@@ -44,6 +44,8 @@ public class Ball : MonoBehaviour
         {
             hasStarted = true;
             myRigidBody2D.velocity = new Vector2(xPush, yPush);
+
+            TimerController.instance.BeginTimer();
         }
     }
 
