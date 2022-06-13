@@ -306,6 +306,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Game Status 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5669784539996556445, guid: f93f0a1ac470f804fb1f752cbb3dd0d7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 455
+      objectReference: {fileID: 0}
+    - target: {fileID: 5690091838481891090, guid: f93f0a1ac470f804fb1f752cbb3dd0d7, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 367
+      objectReference: {fileID: 0}
     - target: {fileID: 6690663714817965275, guid: f93f0a1ac470f804fb1f752cbb3dd0d7, type: 3}
       propertyPath: gameSpeed
       value: 0.4
