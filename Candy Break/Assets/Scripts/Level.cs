@@ -15,6 +15,11 @@ public class Level : MonoBehaviour
         sceneloader = FindObjectOfType<SceneLoader>();
     }
 
+    private void Update()
+    {
+        AdvanceLevel();
+    }
+
     public void CountBlocks()
     {
         breakableBlocks++;
@@ -24,6 +29,15 @@ public class Level : MonoBehaviour
     {
         breakableBlocks--;
         if (breakableBlocks <= 0)
+        {
+            sceneloader.LoadNextScene();
+        }
+    }
+
+    //TODO: REMOVE LATER - TEST ONLY
+    void AdvanceLevel()
+    {
+        if (Input.GetKeyDown(KeyCode.W))
         {
             sceneloader.LoadNextScene();
         }
