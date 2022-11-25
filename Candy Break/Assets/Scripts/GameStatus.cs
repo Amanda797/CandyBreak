@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
@@ -30,7 +28,7 @@ public class GameStatus : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        scoreText.text = currentScore.ToString();
+        scoreText.text = $"Score: {currentScore}";
     }
 
     // Update is called once per frame
@@ -42,7 +40,7 @@ public class GameStatus : MonoBehaviour
     public void AddToScore()
     {
         currentScore += pointsPerBlockDestroyed;
-        scoreText.text = currentScore.ToString();
+        scoreText.text = $"Score: {currentScore}";
     }
 
     public void ResetGame()
